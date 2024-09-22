@@ -1,0 +1,2 @@
+enable: true
+cron: 0 0/30 9-22 * * ?

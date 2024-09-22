@@ -1,0 +1,4 @@
+enable: true
+cron: 0 0 2 * * ?
+log: 1
+remind: true

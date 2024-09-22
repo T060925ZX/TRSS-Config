@@ -1,0 +1,6 @@
+enable: false
+logGroup: 0
+level: 3
+errorProtect: false
+singleLength: 10
+massageLength: 15

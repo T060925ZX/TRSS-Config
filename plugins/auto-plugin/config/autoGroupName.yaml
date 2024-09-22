@@ -1,0 +1,13 @@
+enable: true
+cron: 0 0/2 * * * ?
+mode: 0
+nickname: ""
+userSuffix: ""
+memoriesTick: 系统活力
+notGroup:
+  - 123456
+active:
+  - MemoryPercent
+  - SystemTime
+  - GenshinVersionDay
+fix: 2
