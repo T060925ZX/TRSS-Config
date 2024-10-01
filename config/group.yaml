@@ -5,16 +5,13 @@ default:
 
   onlyReplyAt: 0 # 是否只仅关注主动@机器人的消息， 0-否 1-是 2-触发用户非主人只回复@机器人的消息及特定前缀的消息，主人免前缀
   botAlias:
-    - 爱莉
-    - 爱莉希雅
-    - Elysia
-    - elysia
+    - m
 
   addLimit: 0 # 是否限制添加消息 0-所有群员 1-群管理员 2-主人
   addPrivate: 1 # 是否允许私聊添加
   addReply: 1 # 是否回复触发消息
   addAt: 0 # 是否提及触发用户
-  addRecall: 60 # 是否撤回回复消息
+  addRecall: 0 # 是否撤回回复消息
 
   enable: []
   disable:
@@ -30,10 +27,7 @@ default:
 114514:default:
   onlyReplyAt: 1
   botAlias:
-    - 爱莉
-    - 爱莉希雅
-    - Elysia
-    - elysia
+    - m
 
 # 群单独设置
 123456:
@@ -44,103 +38,14 @@ default:
 114514:123456:
   enable:
   disable:
-929275476:
+2660750139:983299064:
   __place__: 0
-  groupCD: 500
-  singleCD: 2000
-  onlyReplyAt: 2
+  onlyReplyAt: 1
   botAlias:
-    - 爱莉
-    - 爱莉希雅
-    - Elysia
-    - elysia
-  addLimit: 2
-  addReply: 1
-  addRecall: 60
-  addPrivate: 1
-  disable:
-    - syjs:上下班
-
-659945190:
+    - m
+2660750139:784393804:
   __place__: 0
-  groupCD: 500
-  singleCD: 2000
-  onlyReplyAt: 2
+  onlyReplyAt: 1
   botAlias:
-    - 爱莉
-    - 爱莉希雅
-    - Elysia
-    - elysia
-  addLimit: 2
-  addReply: 1
-  addRecall: 60
-  addPrivate: 1
-  disable:
-    - syjs:上下班
-
-554593924:
-  __place__: 0
-  groupCD: 500
-  singleCD: 2000
-  onlyReplyAt: 2
-  botAlias:
-    - 爱莉
-    - 爱莉希雅
-    - Elysia
-    - elysia
-  addLimit: 2
-  addReply: 1
-  addRecall: 60
-  addPrivate: 1
-  disable:
-    - syjs:上下班
-
-575663150:
-  __place__: 0
-  groupCD: 500
-  singleCD: 2000
-  onlyReplyAt: 2
-  botAlias:
-    - 爱莉
-    - 爱莉希雅
-    - Elysia
-    - elysia
-  addLimit: 2
-  addReply: 1
-  addRecall: 60
-  addPrivate: 1
-  disable:
-    - syjs:上下班
-
-158649349:
-  __place__: 0
-  groupCD: 500
-  singleCD: 2000
-  onlyReplyAt: 2
-  botAlias:
-    - 爱莉
-    - 爱莉希雅
-    - Elysia
-    - elysia
-  addLimit: 2
-  addReply: 1
-  addRecall: 60
-  addPrivate: 1
-  disable:
-    - syjs:上下班
-
-617703908:
-  __place__: 0
-  groupGlobalCD: 0
-  singleCD: 1000
-  onlyReplyAt: 2
-  botAlias:
-    - 爱莉
-    - 爱莉希雅
-    - elysia
-    - Elysia
-  imgAddLimit: 2
-  imgMaxSize: 2
-  addPrivate: 1
-  disable:
-    - syjs:上下班
+    - m
+    
