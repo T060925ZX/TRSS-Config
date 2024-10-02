@@ -16,7 +16,7 @@
   "reverseWs": {
     "enable": true,
     "urls": [
-      "wss://tu060925-114514/OneBotv11"
+      "wss://tu060925-114514.hf.space/OneBotv11"
     ]
   },
   "GroupLocalTime": {
